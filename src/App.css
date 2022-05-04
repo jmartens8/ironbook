@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -39,4 +39,22 @@
 
 button {
   font-size: calc(10px + 2vmin);
+} */
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 20px;
+  width: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
 }
